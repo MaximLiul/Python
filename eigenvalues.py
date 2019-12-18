@@ -16,6 +16,7 @@ print(det_subs)
 print(det_subs.subs(e,1))
 
 print(nroots(det_subs.subs(e,1), 25))
+#111
 
 print(det_subs.subs([(e,1),(E,1.346291201783626007812678)]))
 
